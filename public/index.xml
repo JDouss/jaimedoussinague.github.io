@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Jaime Doussinague</title>
-    <link>http://localhost:1313/</link>
+    <link>https://jaimedoussinague.com/</link>
     <description>Recent content on Jaime Doussinague</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 24 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jaimedoussinague.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Turning Point for Artificial Intelligence: Deep Blue vs. Kasparov</title>
-      <link>http://localhost:1313/posts/chessai/</link>
+      <link>https://jaimedoussinague.com/posts/chessai/</link>
       <pubDate>Tue, 24 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/chessai/</guid>
+      <guid>https://jaimedoussinague.com/posts/chessai/</guid>
       <description>Exploring the historical match between Deep Blue and Garry Kasparov and its significance for artificial intelligence.</description>
       <content:encoded><![CDATA[<h2 id="the-turning-point-for-artificial-intelligence">The Turning Point for Artificial Intelligence</h2>
 <p>Perhaps the first turning point for artificial intelligence occurred in 1997 when Deep Blue, a computer program developed by the American multinational IBM, defeated the reigning chess champion, Garry Kasparov. This is a controversial statement, but personally, I consider it an important milestone for two reasons.</p>
