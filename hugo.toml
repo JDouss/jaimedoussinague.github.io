@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://jaimedoussinague.com/"
 title = "Jaime Doussinague"
 theme = "PaperModX"
-languageCode = "es-es"
+languageCode = "en-us"
