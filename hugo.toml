@@ -2,3 +2,5 @@ baseURL = "https://jaimedoussinague.com/"
 title = "Jaime Doussinague"
 theme = "PaperModX"
 languageCode = "en-us"
+disableLiveReload = true
+
